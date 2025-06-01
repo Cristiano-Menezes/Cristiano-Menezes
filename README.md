@@ -2,7 +2,7 @@
 - 👀 Eu estou interessado em trabalhar com programação 
 - 🌱 Eu atualmente estou aprendendo Inglês, HTML, CSS e JavaScript
 - 💞️ Eu estou procurando ganhar experiência e viver da programação
-- 📫 Pode entrar em contato comigo por telefone, whatsapp e instagram 
+- 📫 Pode entrar em contato comigo por telefone, whatsapp e instagram (os links estarão no meu perfil)
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Sou engraçado
 
